@@ -29,6 +29,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `yarn deploy`
+
+This deployes the currently built version of the app (in /build) to the gh-pages branch, which we use for RC4 FOP's deployed webpage.
+
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
